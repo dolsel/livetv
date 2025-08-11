@@ -4,8 +4,6 @@
 	"type": "module",
 	"scripts": {
 		"dev": "react-router dev",
-		"build": "react-router build",
-		"start": "react-router serve",
 		"typecheck": "react-router typegen && tsc --noEmit"
 	},
 	"dependencies": {
